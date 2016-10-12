@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">STEEFPod</string>
+    <string name="files_activity">Files</string>
+    <string name="search_activity">Search</string>
+    <string name="about_activity">About</string>
+    <string name="now_playing_activity">Now Playing</string>
+    <string name="main_activity_text">This is the main screen of the app, you can click the icons to go to the other
+        activities.</string>
+    <string name="files_activity_text">This is the files screen of the app, you should be able to view a file
+        tree of your phone and find some music to play with the app. It also will link back to the
+        main activity and to the now playing activity. Would have to query the phone for each audio file on it,
+    and display a sorted list of the files.</string>
+    <string name="search_activity_text">This is the search screen of the app, you should be able to search
+        quickly for files on your phone to play with the app. It also will link back to the
+        main activity and to the now playing activity. Would have to query the phone for each audio file on it,
+    and display a list of files with the search term in them.</string>
+    <string name="about_activity_text">This is the about screen of the app, it should contain information about
+    the app such as website, licenses, etc. It also will link back to the
+        main activity and to the now playing activity.</string>
+    <string name="now_playing_activity_text">This is the now playing screen of the app, it should have controls
+    for playing the current file and also album art and things of that nature. It will also link back to the
+        main activity. Uses MediaPlayer to play the audio?</string>
+    <string name="main_logo">STEEFPod</string>
+
+
+</resources>
