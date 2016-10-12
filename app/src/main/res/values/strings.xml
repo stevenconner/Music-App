@@ -17,6 +17,10 @@
     <string name="about_activity_text">This is the about screen of the app, it should contain information about
     the app such as website, licenses, etc. It also will link back to the
         main activity and to the now playing activity.</string>
+    <string name="about_image_attributions">Obtained images from these sources: Now playing logo from wikipedia
+        https://upload.wikimedia.org/wikipedia/commons/e/e8/Play_blauw.png . Search logo from WP Clipart at
+        http://www.wpclipart.com/tools/magnifying_glass/magnifier_2/magnifying_glass_BW.png.html . Folder logo
+        from pngimg.com http://pngimg.com/download/8771 . STEEFPod logo created on www.freelogoservices.com</string>
     <string name="now_playing_activity_text">This is the now playing screen of the app, it should have controls
     for playing the current file and also album art and things of that nature. It will also link back to the
         main activity. Uses MediaPlayer to play the audio?</string>

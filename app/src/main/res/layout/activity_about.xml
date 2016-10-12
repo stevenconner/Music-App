@@ -12,9 +12,16 @@
     tools:context="com.example.android.musicalstructure.AboutActivity">
 
     <TextView
+        android:id="@+id/about_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/about_activity_text"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/about_text_view"
+        android:text="@string/about_image_attributions"/>
 
     <ImageView
         android:id="@+id/mainLogoImageView"
